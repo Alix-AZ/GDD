@@ -1,1 +1,4 @@
 # GDD
+
+Équipe :
+Marjolène Rodrigues
